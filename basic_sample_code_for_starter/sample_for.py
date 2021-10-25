@@ -28,3 +28,5 @@ for count_h in reversed(range(10)):
     for count_w in range(count_h + 1):
         print('*', end=' ')
     print('')
+
+# End
